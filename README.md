@@ -47,7 +47,7 @@ $ sudo python3 main.py
 
 # **Files**
 
-- <a href="https://github.com/MaryamSaeedmehr/Packet-Sniffer/blob/master/main.py">`/server.py`</a> : This is main python File
+- <a href="https://github.com/MaryamSaeedmehr/Packet-Sniffer/blob/master/main.py">`/main.py`</a> : This is main python File
 - <a href="https://github.com/MaryamSaeedmehr/Packet-Sniffer/blob/master/Temp.pcap">`/Temp.pcap`</a> : Pcap File of all packet captured
 
 
