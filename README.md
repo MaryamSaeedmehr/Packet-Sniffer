@@ -55,5 +55,5 @@ $ sudo python3 main.py
 
 Reach out to me at one of the following places!
 
-- Telegram at <a href="https://t.me/msaeedmehr" target="_blank">@msaeedmehr</a>
+- Telegram at <a href="https://t.me/BitterOcean" target="_blank">@BitterOcean</a>
 - Gmail at <a href="mailto:maryamsaeedmehr@gmail.com" target="_blank">maryamsaeedmehr@gmail.com</a>
